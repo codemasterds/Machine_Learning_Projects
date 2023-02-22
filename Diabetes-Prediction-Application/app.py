@@ -1,10 +1,12 @@
+import os
+os.system('pip install requirements.txt')
+
 from flask import Flask,render_template, request
 import pickle
 import numpy as np
 import os
 
-import os
-os.system('pip install requirements.txt')
+
 
 #loading the random forest classifier model
 here = os.path.dirname(os.path.abspath(__file__))
