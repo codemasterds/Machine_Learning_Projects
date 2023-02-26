@@ -19,7 +19,7 @@ This is a web application that predicts the likelihood of a person having diabet
 To install and run the application, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/<your-username>/diabetes-prediction-app.git`
-2. Navigate to the project directory: `cd diabetes-prediction-app`
+2. Navigate to the project directory: `cd diabetes-prediction-application`
 3. Install the required packages: `pip install -r requirements.txt`
 4. Run the application: `python app.py`
 
